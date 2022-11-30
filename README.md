@@ -1,8 +1,9 @@
 # Face landmark detection and tracking
+
 <p align="middle">
   <img src="./points/101.png" align="center" />
-
 </p>
+
 <p align="middle">
   <img src="./gif/1.gif" width="33%" />
   <img src="./gif/2.gif" width="33%" /> 
