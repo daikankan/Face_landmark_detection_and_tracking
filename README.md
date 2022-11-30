@@ -1,4 +1,4 @@
-# Face detection, 101 landmark detection and tracking
+# Face landmark detection and tracking
 <p align="middle">
   <img src="./points/101.png" align="center" />
 
